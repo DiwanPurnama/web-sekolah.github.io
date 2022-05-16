@@ -1,0 +1,31 @@
+
+            .header{
+                background-color: #05595B;
+            }
+            .content{
+                
+                background-color: #FFF;
+            }
+            .footer{
+                background-color: #05595B;
+                margin-bottom: 0;
+            }
+            .navbar{
+                color: red;
+            }
+            body{
+                background-color: #05595B;
+            }
+            .header li{
+                display: inline-block;
+                margin-right: 10px;
+            }
+            .header a{
+                color: #00FFDD;
+                text-decoration: none;
+            }
+            .header a:hover{
+                background-color: lightskyblue;
+            }
+
+            
